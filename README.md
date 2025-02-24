@@ -6,6 +6,7 @@ Wildberries (также «Ва́йлдберриз») — крупнейший �
 - 76,7 млн уникальных посетителей в месяц [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
 - 14 млн уникальных посетителей в день [\[4\]](https://www.retail.ru/news/oborot-wildberries-vyros-na-101-v-iii-kvartale-15-oktyabrya-2021-210183/)
 - 41,3 млн активных покупателей в месяц [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
+- Число ежедневных заказов: 2,3 млн [\[4\]](https://www.retail.ru/news/oborot-wildberries-vyros-na-101-v-iii-kvartale-15-oktyabrya-2021-210183/)
 - Среднее число страниц за один визит: 12 [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
 - Среднее время одного визита: 10 мин [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
 - Мобильные устройства: 86% [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
@@ -13,6 +14,7 @@ Wildberries (также «Ва́йлдберриз») — крупнейший �
 - Процент трафика на анализируемый веб-сайт из социальных сетей (десктоп): 1.05% [\[2\]](https://www.similarweb.com/ru/website/wildberries.ru/#overview)
 - Общее количество социальных сетей, направляющих трафик на анализируемый сайт (десктоп): 27 [\[2\]](https://www.similarweb.com/ru/website/wildberries.ru/#overview)
 - Социальная сеть, направляющая наибольший трафик на анализируемый веб-сайт: VK (42.55%) [\[2\]](https://www.similarweb.com/ru/website/wildberries.ru/#overview)
+
 
 ## Целевая аудитория
 - Аудитория wildberries.ru включает 56.08% мужчин и 43.92% женщин [\[2\]](https://www.similarweb.com/ru/website/wildberries.ru/#overview)
