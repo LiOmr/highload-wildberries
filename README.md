@@ -4,6 +4,7 @@ Wildberries (также «Ва́йлдберриз») — крупнейший �
 
 ## Продуктовые метрики
 - 76,7 млн уникальных посетителей в месяц [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
+- 14 млн уникальных посетителей в день [\[4\]](https://www.retail.ru/news/oborot-wildberries-vyros-na-101-v-iii-kvartale-15-oktyabrya-2021-210183/)
 - 41,3 млн активных покупателей в месяц [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
 - Среднее число страниц за один визит: 12 [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
 - Среднее время одного визита: 10 мин [\[3\]](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
@@ -75,3 +76,4 @@ Wildberries (также «Ва́йлдберриз») — крупнейший �
 1. [Wildberries (ruwiki.ru)](https://ru.ruwiki.ru/wiki/Wildberries)  
 2. [SimilarWeb Wildberries Overview](https://www.similarweb.com/ru/website/wildberries.ru/#overview)  
 3. [Special project kit WB (pdf)](https://cmp.wildberries.ru/cmpf/Special%20project%20kit%20WB.pdf)
+4. https://www.retail.ru/news/oborot-wildberries-vyros-na-101-v-iii-kvartale-15-oktyabrya-2021-210183/
