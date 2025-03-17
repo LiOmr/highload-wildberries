@@ -390,10 +390,10 @@ https://dbdiagram.io/d/DB-67d834af75d75cc844632f37
 В таблице:
 
 1. **Row Size (bytes)** – усреднённый размер одной строки (включая типичные поля).  
-2. **Read RPS / Write RPS** – приблизительный диапазон запросов в секунду (ранее обсуждалось).  
-3. **Rows per read / write** – сколько строк в среднем участвует в одном запросе (при SELECT может считываться список; при INSERT/UPDATE обычно 1 строка, иногда пакет).  
+2. **Read RPS / Write RPS** – приблизительный диапазон запросов в секунду.  
+3. **Rows per read / write** – сколько строк в среднем участвует в одном запросе.  
 4. **Rows read/s или write/s** = (RPS × Rows per req).  
-5. **Data read/s (bytes/s)** = (Rows read/s) × (Row Size). Аналогично для записи.
+5. **Data read/s (bytes/s)** = (Rows read/s) × (Row Size). 
 
 
 | **Таблица**          | **Row<br>Size (bytes)** | **Read<br>RPS**       | **Rows<br>per read** | **Rows<br>read/s**               | **Data<br>read/s (bytes/s)**                        | **Write<br>RPS**  | **Rows<br>per write** | **Rows<br>write/s**             | **Data<br>write/s (bytes/s)**                     | **Комментарий**                                                                                                        |
