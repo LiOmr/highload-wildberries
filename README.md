@@ -450,6 +450,10 @@ https://dbdiagram.io/d/DB-67d834af75d75cc844632f37
 ![DB2](https://github.com/user-attachments/assets/67d8902e-5a5c-458f-ab02-c2c8363f6565)
 
 
+
+![image](https://github.com/user-attachments/assets/4f10bb00-c146-4f4d-ad87-03f9751ae059)
+
+
 ## 6.2. Пояснения
 
 ### 6.2.1. Таблица с описанием (структурой) основных таблиц
