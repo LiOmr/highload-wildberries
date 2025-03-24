@@ -442,7 +442,9 @@ https://dbdiagram.io/d/DB-67d834af75d75cc844632f37
 
 ### 6. Физическая схема БД
 
-## 6.1. 
+## 6.1. [Схема БД](https://dbdiagram.io/d/DB-67d834af75d75cc844632f37)
+![DB2](https://github.com/user-attachments/assets/67d8902e-5a5c-458f-ab02-c2c8363f6565)
+
 
 ## 6.2. Пояснения
 
